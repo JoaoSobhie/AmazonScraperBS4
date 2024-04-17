@@ -1,6 +1,8 @@
 # Python scraper with a rest api 
 This repo contains an example of scraper of Amazon page using BS4. 
-This scraper get all products params and send it to be visible  in the REST API endpoint.
+
+You can get all products params and send it to be visible in the REST API endpoint.
+
 It's possible to add or not some tags to get a  specific information, like best seller, rating ...etc
 
 ## Setting up your development environment
